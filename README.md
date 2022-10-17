@@ -2,19 +2,18 @@
 
  ![preview](./.github/preview.png)
 
- > Trilha Explorer
+  [🔗 Clique aqui para acessar](https://metzevandro.github.io/NLW/)
 
- Projeto construído durante o Evento Next Level Week da Rocketseat.
+  ## Trilha Explorer
 
- [🔗clique aqui para acessar](https://metzevandro.github.io/NLW/)
-
+    Projeto construído durante o Evento Next Level Week da Rocketseat.
  ## 🖥️ Tecnologias:
 
- - HTML
- - CSS
- - Git e GitHub
+    - HTML
+    - CSS
+    - Git e GitHub
 
  ## 📞 Contatos:
 
- - 📧  metzxevandro@gmail.com
+    - 📧  metzxevandro@gmail.com
 
